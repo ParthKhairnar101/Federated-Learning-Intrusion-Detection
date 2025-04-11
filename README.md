@@ -35,7 +35,9 @@ The goal is to simulate distributed training of a CNN-LSTM model using Federated
 ## 🚀 How to Run
 
 1. Install dependencies:
-- pip install flwr tensorflow scikit-learn
+```bash
+pip install flwr tensorflow scikit-learn
+```
 
 2. Ensure your data is loaded and preprocessed (`df`, `test_df`)
 
